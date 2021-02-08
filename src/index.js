@@ -8,6 +8,8 @@
             - Tag <script src= 'ruta o path al archivo js'/> centro del enlace HTML-JS
         * El terminal (Command Line Interface - CLI)
         * Comentarios de una linea y de mas de una linea.
+        
+    Part 2: 
         * Uso del objeto document parte del DOM
         * Crear elemento HTML con la funcion document.createElement()
         * Modificar contenido de elemento HTML  con la propiedad o variabele element.innerText
