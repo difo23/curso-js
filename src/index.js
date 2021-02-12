@@ -1,13 +1,14 @@
 
 /* 
     Clase #1: Uso del entorno de trabajo.
-        * Carpeta src/ un nombre con estandar.
-        * El nombre de los archivos index otro nombre estandar.
-        * Uso de emmet para agilizar la escritura del HTML.
-        * El Document Object Model - DOM para modificar el HTML usando el JS.
-            - Tag <script src= 'ruta o path al archivo js'/> centro del enlace HTML-JS
-        * El terminal (Command Line Interface - CLI)
-        * Comentarios de una linea y de mas de una linea.
+        * git init y  npm init x
+        * Carpeta src/ un nombre con estandar. x
+        * El nombre de los archivos index otro nombre estandar. x
+        * Uso de emmet para agilizar la escritura del HTML. x
+        * El Document Object Model - DOM para modificar el HTML usando el JS. x
+            - Tag <script src= 'ruta o path al archivo js'/> centro del enlace HTML-JS x
+        * El terminal (Command Line Interface - CLI) x
+        * Comentarios de una linea y de mas de una linea.x
         
     Part 2: 
         * Uso del objeto document parte del DOM
@@ -19,8 +20,7 @@
            - Mostrar los resultados de console.log() por la consola.
         * Entregar Link al repositorio curso_js en GitHub.
         * Fin de la clase. 
-*/
-
+*/ 
 // Lizandro Ramirez 22 5B
 
 const saludar = (nombre) => {
